@@ -1,0 +1,38 @@
+body {
+  background-color: gray;
+}
+
+nav {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 30px;
+  padding-top: -20px;
+  padding-bottom: 20px;
+  word-spacing: 0px;
+}
+
+h1 {
+  color: Blue;
+  text-align: center;
+  font-family: comic, sans-serif;
+  font-size: 35px;
+}
+
+h2 {
+  text-align: center;
+  font-family: georgia, serif;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 20px;
+}
+
+div {
+  text-align: center;
+  width: 1450px;
+  border: 15px solid purple;
+  padding: 30px;
+  margin: 10px;
+}
